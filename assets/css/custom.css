@@ -1,0 +1,118 @@
+
+.whatsapp{
+	position:fixed;
+	width:65px;
+	height:65px;
+	bottom:130px;
+	right:50px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:40px;
+	/* box-shadow: 2px 2px 3px #999; */
+  z-index:100;
+}
+
+.my-whatsapp{
+	margin-top:16px;
+}
+
+#rooms img {
+    display: inline-block;
+    max-width: 100%;
+    height: 310px;
+}
+
+.w-500px{
+    width: 500px;
+}
+.banner-slider {
+    position: relative;
+    height: 800px !important;
+    z-index: 9;
+}
+
+.h-300px{
+    height: 300px !important;
+}
+
+section.section-six {
+    position: relative;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background-color: #f5f5f5;
+    z-index: -1;
+}
+
+section.section-four {
+    position: relative;
+    padding-bottom: 90px;
+    padding-top: 90px;
+}
+
+.block-fifty-six {
+    font-size: 26px;
+    letter-spacing: -1px;
+    line-height: 70px;
+    color: #222222;
+    font-weight: 600;
+    text-align: center;
+    padding: 55px 20px 55px;
+    filter: drop-shadow(0px 16px 16px rgba(0, 0, 0, 0.06));
+    background-color: #ffffff;
+    z-index: 2;
+    /* position: relative; */
+    height: 360px;
+    
+}
+
+.bg-theme-color{
+    background: var(--theme-color);
+}
+
+.bg-transperant-90{
+   background-color: rgba(255, 255, 255, 0.479) !important;
+}
+
+.btn-primary{
+    background: var(--theme-color);;
+    border: 1px solid var(--theme-color);;
+   padding: 10px 20px;
+   border-radius: 0;
+}
+
+.btn-primary:hover{
+    background: var(--theme-color);;
+    border: 1px solid var(--theme-color);;
+    /* color: #000000; */
+    padding: 10px 20px;
+    border-radius: 0;
+}
+
+.banner-info{
+    position: absolute;
+    z-index: 100;
+    top: 300px;
+    left: 100px;
+
+}
+.banner-img img{
+    background-size: cover;
+    background-position: center;
+}
+
+.btn-style-one{
+    text-decoration: none !important;
+    font-size: 20px !important;
+}
+
+.block-four .inner-box {
+    position: absolute;
+    right:0px;
+    bottom: 0px;
+}
+.bg-light-1{
+    background: #eff6ff;
+}
+
